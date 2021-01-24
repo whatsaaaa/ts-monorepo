@@ -2,7 +2,13 @@
   "name": "ts-monorepo",
   "version": "1.0.0",
   "main": "index.js",
+  "repository": "https://github.com/whatsaaaa/ts-monorepo",
+  "author": "Aleksandar Milicevic <aleksandarmilicevic18@gmail.com>",
   "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
   "volta": {
     "node": "14.15.4",
     "yarn": "1.22.10"
