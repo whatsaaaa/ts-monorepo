@@ -1,0 +1,10 @@
+{
+  "name": "ts-monorepo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "volta": {
+    "node": "14.15.4",
+    "yarn": "1.22.10"
+  }
+}
