@@ -17,7 +17,7 @@ export function isTypedArray<T>(
 }
 
 /**
- * Check whether a given value is an {@link @whatsaaaa/types#IMessafe}
+ * Check whether a given value is an {@link @whatsaaaa/types#IMessage}
  * @param arg - value to check
  * @beta
  */
