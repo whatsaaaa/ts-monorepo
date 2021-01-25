@@ -12,7 +12,7 @@ export function sum(a: number, b: number): number;
 // @beta
 export function sum2(a: number, b: number): number;
 
-// @beta
+// @public
 export function sum3(a: number, b: number, c: number): number;
 
 // @beta
