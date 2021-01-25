@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.2.0](https://github.com/whatsaaaa/ts-monorepo/compare/@whatsaaaa/types@0.1.1...@whatsaaaa/types@0.2.0) (2021-01-25)
+
+### Features
+
+- **utils,types:** new type and sum3 is now public ([beada73](https://github.com/whatsaaaa/ts-monorepo/commit/beada73879eae307ec333c233931a696f63297de))
+
 ## [0.1.1](https://github.com/whatsaaaa/ts-monorepo/compare/@whatsaaaa/types@0.1.0...@whatsaaaa/types@0.1.1) (2021-01-25)
 
 **Note:** Version bump only for package @whatsaaaa/types
