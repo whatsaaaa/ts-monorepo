@@ -6,6 +6,7 @@ Tools used:
 - lerna
 - typescript
 - eslint
+- prettier
 - jest
 - commitlint
 - api-documenter
