@@ -9,7 +9,7 @@ export function formatTimestamp(date: Date): string;
 // @public
 export function sum(a: number, b: number): number;
 
-// @beta
+// @public
 export function sum2(a: number, b: number): number;
 
 // @public
