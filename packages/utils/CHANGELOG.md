@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.5.0](https://github.com/whatsaaaa/ts-monorepo/compare/@whatsaaaa/utils@0.4.0...@whatsaaaa/utils@0.5.0) (2021-01-25)
+
+### Features
+
+- **utils:** sum3 in beta ([4aaed8b](https://github.com/whatsaaaa/ts-monorepo/commit/4aaed8bdf3a25a58b202f83ff3cefb0a38c3f412))
+
 # [0.4.0](https://github.com/whatsaaaa/ts-monorepo/compare/@whatsaaaa/utils@0.3.0...@whatsaaaa/utils@0.4.0) (2021-01-25)
 
 ### Features
