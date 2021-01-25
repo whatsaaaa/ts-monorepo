@@ -4,6 +4,20 @@
 
 ```ts
 // @public
+export interface IChannel {
+  // (undocumented)
+  description: string;
+  // (undocumented)
+  id: string;
+  // (undocumented)
+  messages: IMessage[];
+  // (undocumented)
+  name: string;
+  // (undocumented)
+  teamId: string;
+}
+
+// @public
 export interface IMessage {
   // (undocumented)
   body: string;
