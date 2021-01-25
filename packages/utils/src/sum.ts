@@ -31,3 +31,16 @@ export function sum2(a: number, b: number): number {
 export function sum3(a: number, b: number, c: number): number {
   return a + b + c;
 }
+
+/**
+ * Calculates the sum of four numbers
+ * @param a - fist number
+ * @param b - second number
+ * @param c - third number
+ * @param d - fourth number
+ *
+ * @beta
+ */
+export function sum4(a: number, b: number, c: number, d: number): number {
+  return a + b + c + d;
+}
