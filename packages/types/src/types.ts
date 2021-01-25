@@ -20,3 +20,15 @@ export interface ITeam {
   name: string;
   logo: string;
 }
+
+/**
+ * A chat channel, containing many chat messages
+ * @public
+ */
+export interface IChannel {
+  id: string;
+  teamId: string;
+  name: string;
+  description: string;
+  messages: IMessage[];
+}
