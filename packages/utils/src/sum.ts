@@ -39,7 +39,7 @@ export function sum3(a: number, b: number, c: number): number {
  * @param c - third number
  * @param d - fourth number
  *
- * @beta
+ * @public
  */
 export function sum4(a: number, b: number, c: number, d: number): number {
   return a + b + c + d;
