@@ -26,7 +26,7 @@ export function sum2(a: number, b: number): number {
  * @param b - second number
  * @param c - third number
  *
- * @beta
+ * @public
  */
 export function sum3(a: number, b: number, c: number): number {
   return a + b + c;
