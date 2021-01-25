@@ -3,7 +3,7 @@
  * @param a - first number
  * @param b - second number
  *
- * @beta
+ * @public
  */
 export function sum(a: number, b: number): number {
   return a + b;
