@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.8.0](https://github.com/whatsaaaa/ts-monorepo/compare/@whatsaaaa/utils@0.7.0...@whatsaaaa/utils@0.8.0) (2021-01-25)
+
+### Features
+
+- **utils:** introduced subtract in beta ([4173f7a](https://github.com/whatsaaaa/ts-monorepo/commit/4173f7aaf43b7f627581d4beee75f18756f1413a))
+
 # [0.7.0](https://github.com/whatsaaaa/ts-monorepo/compare/@whatsaaaa/utils@0.6.0...@whatsaaaa/utils@0.7.0) (2021-01-25)
 
 ### Features

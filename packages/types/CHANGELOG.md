@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.3.0](https://github.com/whatsaaaa/ts-monorepo/compare/@whatsaaaa/types@0.2.1...@whatsaaaa/types@0.3.0) (2021-01-25)
+
+### Features
+
+- **types:** add ichannel interface ([fc883ed](https://github.com/whatsaaaa/ts-monorepo/commit/fc883ed7882ef26b23840028eab3ef52366f8fa3))
+
 ## [0.2.1](https://github.com/whatsaaaa/ts-monorepo/compare/@whatsaaaa/types@0.2.0...@whatsaaaa/types@0.2.1) (2021-01-25)
 
 ### Bug Fixes
