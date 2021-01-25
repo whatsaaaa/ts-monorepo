@@ -28,3 +28,4 @@ All interfaces are prefixed with `I`
 | [IChannel](./types.ichannel.md) | A chat channel, containing many chat messages |
 | [IMessage](./types.imessage.md) | A chat message                                |
 | [ITeam](./types.iteam.md)       | A team, containing one or more chat channels  |
+| [IUser](./types.iuser.md)       | A user participating in chat                  |

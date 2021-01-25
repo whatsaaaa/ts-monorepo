@@ -32,3 +32,13 @@ export interface IChannel {
   description: string;
   messages: IMessage[];
 }
+
+/**
+ * A user participating in chat
+ * @public
+ */
+export interface IUser {
+  id: string;
+  name: string;
+  email: string;
+}
