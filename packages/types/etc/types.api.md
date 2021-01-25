@@ -48,4 +48,14 @@ export interface ITeam {
   // (undocumented)
   name: string;
 }
+
+// @public
+export interface IUser {
+  // (undocumented)
+  email: string;
+  // (undocumented)
+  id: string;
+  // (undocumented)
+  name: string;
+}
 ```

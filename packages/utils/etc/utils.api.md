@@ -4,6 +4,9 @@
 
 ```ts
 // @public
+export function addDaysToDate(date: Date, numberOfDaysToAdd: number): Date;
+
+// @public
 export function formatTimestamp(date: Date): string;
 
 // @beta
