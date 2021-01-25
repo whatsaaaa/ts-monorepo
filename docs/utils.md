@@ -6,10 +6,11 @@
 
 ## Functions
 
-| Function                                            | Description                                             |
-| --------------------------------------------------- | ------------------------------------------------------- |
-| [formatTimestamp(date)](./utils.formattimestamp.md) | Format a timestamp as a string                          |
-| [sum(a, b)](./utils.sum.md)                         | Calculates the sum of two numbers                       |
-| [sum2(a, b)](./utils.sum2.md)                       | Calculates the sum of two numbers                       |
-| [sum3(a, b, c)](./utils.sum3.md)                    | Calculates the sum of three numbers                     |
-| [sum4(a, b, c, d)](./utils.sum4.md)                 | <b><i>(BETA)</i></b> Calculates the sum of four numbers |
+| Function                                            | Description                                                       |
+| --------------------------------------------------- | ----------------------------------------------------------------- |
+| [formatTimestamp(date)](./utils.formattimestamp.md) | Format a timestamp as a string                                    |
+| [subtract(a, b)](./utils.subtract.md)               | <b><i>(BETA)</i></b> Calculate the difference between two numbers |
+| [sum(a, b)](./utils.sum.md)                         | Calculates the sum of two numbers                                 |
+| [sum2(a, b)](./utils.sum2.md)                       | Calculates the sum of two numbers                                 |
+| [sum3(a, b, c)](./utils.sum3.md)                    | Calculates the sum of three numbers                               |
+| [sum4(a, b, c, d)](./utils.sum4.md)                 | <b><i>(BETA)</i></b> Calculates the sum of four numbers           |

@@ -23,7 +23,8 @@ All interfaces are prefixed with `I`
 
 ## Interfaces
 
-| Interface                       | Description                                  |
-| ------------------------------- | -------------------------------------------- |
-| [IMessage](./types.imessage.md) | A chat message                               |
-| [ITeam](./types.iteam.md)       | A team, containing one or more chat channels |
+| Interface                       | Description                                   |
+| ------------------------------- | --------------------------------------------- |
+| [IChannel](./types.ichannel.md) | A chat channel, containing many chat messages |
+| [IMessage](./types.imessage.md) | A chat message                                |
+| [ITeam](./types.iteam.md)       | A team, containing one or more chat channels  |
