@@ -14,4 +14,4 @@
  * @packageDocumentation
  */
 export { isTypedArray, isMessage } from "./type-guards";
-export { IMessage } from "./types";
+export { IMessage, ITeam } from "./types";
