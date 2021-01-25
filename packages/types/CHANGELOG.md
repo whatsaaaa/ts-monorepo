@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.1](https://github.com/whatsaaaa/ts-monorepo/compare/@whatsaaaa/types@0.2.0...@whatsaaaa/types@0.2.1) (2021-01-25)
+
+### Bug Fixes
+
+- **types:** forgot to export iteam interface ([3b10b41](https://github.com/whatsaaaa/ts-monorepo/commit/3b10b41a3e2da444cc9e236e6db3b52dffc14729))
+
 # [0.2.0](https://github.com/whatsaaaa/ts-monorepo/compare/@whatsaaaa/types@0.1.1...@whatsaaaa/types@0.2.0) (2021-01-25)
 
 ### Features
