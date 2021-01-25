@@ -16,14 +16,14 @@ All interfaces are prefixed with `I`
 
 ## Functions
 
-|  Function | Description |
-|  --- | --- |
-|  [isMessage(arg)](./types.ismessage.md) | <b><i>(BETA)</i></b> Check whether a given value is an [IMessage](./types.imessage.md) |
-|  [isTypedArray(arr, check)](./types.istypedarray.md) | Check whether a given value is an array where each member is of a specified type |
+| Function                                            | Description                                                                            |
+| --------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| [isMessage(arg)](./types.ismessage.md)              | <b><i>(BETA)</i></b> Check whether a given value is an [IMessage](./types.imessage.md) |
+| [isTypedArray(arr, check)](./types.istypedarray.md) | Check whether a given value is an array where each member is of a specified type       |
 
 ## Interfaces
 
-|  Interface | Description |
-|  --- | --- |
-|  [IMessage](./types.imessage.md) | A chat message |
-
+| Interface                       | Description                                  |
+| ------------------------------- | -------------------------------------------- |
+| [IMessage](./types.imessage.md) | A chat message                               |
+| [ITeam](./types.iteam.md)       | A team, containing one or more chat channels |
