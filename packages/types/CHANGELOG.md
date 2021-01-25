@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.4.0](https://github.com/whatsaaaa/ts-monorepo/compare/@whatsaaaa/types@0.3.0...@whatsaaaa/types@0.4.0) (2021-01-25)
+
+### Features
+
+- **types:** add iuser interface ([c697874](https://github.com/whatsaaaa/ts-monorepo/commit/c697874ce78deaf165a1cc6817296eaf2ec1649e))
+
 # [0.3.0](https://github.com/whatsaaaa/ts-monorepo/compare/@whatsaaaa/types@0.2.1...@whatsaaaa/types@0.3.0) (2021-01-25)
 
 ### Features

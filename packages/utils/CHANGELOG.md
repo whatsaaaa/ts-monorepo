@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.9.0](https://github.com/whatsaaaa/ts-monorepo/compare/@whatsaaaa/utils@0.8.0...@whatsaaaa/utils@0.9.0) (2021-01-25)
+
+### Features
+
+- **utils:** add new date function ([41ac6f8](https://github.com/whatsaaaa/ts-monorepo/commit/41ac6f8fe8679a3a553c4ff8486ad7c94eead0d7))
+
 # [0.8.0](https://github.com/whatsaaaa/ts-monorepo/compare/@whatsaaaa/utils@0.7.0...@whatsaaaa/utils@0.8.0) (2021-01-25)
 
 ### Features
