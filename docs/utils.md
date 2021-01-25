@@ -6,8 +6,9 @@
 
 ## Functions
 
-| Function                                            | Description                                            |
-| --------------------------------------------------- | ------------------------------------------------------ |
-| [formatTimestamp(date)](./utils.formattimestamp.md) | Format a timestamp as a string                         |
-| [sum(a, b)](./utils.sum.md)                         | Calculates the sum of two numbers                      |
-| [sum2(a, b)](./utils.sum2.md)                       | <b><i>(BETA)</i></b> Calculates the sum of two numbers |
+| Function                                            | Description                                              |
+| --------------------------------------------------- | -------------------------------------------------------- |
+| [formatTimestamp(date)](./utils.formattimestamp.md) | Format a timestamp as a string                           |
+| [sum(a, b)](./utils.sum.md)                         | Calculates the sum of two numbers                        |
+| [sum2(a, b)](./utils.sum2.md)                       | <b><i>(BETA)</i></b> Calculates the sum of two numbers   |
+| [sum3(a, b, c)](./utils.sum3.md)                    | <b><i>(BETA)</i></b> Calculates the sum of three numbers |
