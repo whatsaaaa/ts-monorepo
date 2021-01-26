@@ -44,3 +44,16 @@ export function sum3(a: number, b: number, c: number): number {
 export function sum4(a: number, b: number, c: number, d: number): number {
   return a + b + c + d;
 }
+
+/**
+ * Calculates the sum of five numbers
+ * @param a - fist number
+ * @param b - second number
+ * @param c - third number
+ * @param d - fourth number
+ *
+ * @beta
+ */
+export function sum6(a: number, b: number, c: number, d: number, e: number): number {
+  return a + b + c + d + e;
+}
