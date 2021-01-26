@@ -24,5 +24,8 @@ export function sum3(a: number, b: number, c: number): number;
 // @beta
 export function sum4(a: number, b: number, c: number, d: number): number;
 
+// @beta
+export function sum6(a: number, b: number, c: number, d: number, e: number): number;
+
 // (No @packageDocumentation comment for this package)
 ```
